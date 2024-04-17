@@ -169,7 +169,7 @@ class ProfileViewState extends State<ProfileView> with StateMother {
                   itemCount: 30,
 
                   itemBuilder: (BuildContext context, int index) {
-                    return Image.asset('assets/view/insta_main_v2/winter.jpg');
+                    return Image.asset('assets/view/insta_main_v2/winter2.jpg');
                   },
                 ),
                 Column(

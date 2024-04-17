@@ -3,7 +3,7 @@ description: "insta main v2"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/insta_main_v2
 
-version: 1.0.0+1
+version: 1.0.2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
